@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**efoosag/efoosag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Victor Efosa Osagie ! 
 
-Here are some ideas to get you started:
+**A bit about me 🙋‍♂️**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m a graduate of Production Engineering.
+- I Like problem solving and I believe every system can be improve.
+- My interests include Web Developmentand Problem Solving.
+- Core Skills are Html, CSS and Javascript.
+
+**Tech I'm familiar with 💻**
+- HTML  
+- CSS  
+- GIT
+- JAVASCRIPT
+
+**My Experiences 👨‍💻**
+- Frontend Web Developer @ Microverse.
+
+**My Accomplishments 🏅**
+Microverse Certified (HTML and CSS) - Link to the certificate
+
+**Let's Connect**
+- GitHub: [@efoosag](https://github.com/efoosag)
+- Twitter: [@Victor Osagie](https://www.twitter.com/Victorosagie08)
+- LinkedIn: [@VictorOsagie](https://www.linkedin.com/in/efoosag/
