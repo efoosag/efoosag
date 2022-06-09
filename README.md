@@ -6,7 +6,7 @@ I'm Victor Efosa Osagie !
 
 - I’m a graduate of Production Engineering.
 - I Like problem solving and I believe every system can be improve.
-- My interests include Web Developmentand Problem Solving.
+- My interests include Web Development and Problem Solving.
 - Core Skills are Html, CSS and Javascript.
 
 **Tech I'm familiar with 💻**
