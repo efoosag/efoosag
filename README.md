@@ -26,4 +26,6 @@ Microverse Certified (HTML and CSS) - Link to the certificate
 - Twitter: [@Victor Osagie](https://www.twitter.com/Victorosagie08)
 - LinkedIn: [@VictorOsagie](https://www.linkedin.com/in/efoosag/
 
-https://github.com/c3c1l1a#my-github-stats
+
+[![My Github Statistics](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+
