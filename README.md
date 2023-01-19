@@ -14,9 +14,11 @@ I'm Victor Efosa Osagie !
 - CSS  
 - GIT
 - JAVASCRIPT
+- React Redux
+- Ruby on Rails
 
 **My Experiences 👨‍💻**
-- Frontend Web Developer @ Microverse.
+- Fullstack Web Developer @ Microverse.
 
 **My Accomplishments 🏅**
 Microverse Certified (HTML and CSS) - Link to the certificate
