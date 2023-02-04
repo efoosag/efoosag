@@ -30,4 +30,6 @@ Microverse Certified (HTML and CSS) - Link to the certificate
 
 
 [![My GitHub Statistics](https://github-readme-stats.vercel.app/api/?username=efoosag&count_private=true&theme=tokyonight&showicons=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efoosag&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
