@@ -16,6 +16,9 @@ I'm Victor Efosa Osagie !
 - JAVASCRIPT
 - React Redux
 - Ruby on Rails
+- Node.js
+- MongoDB
+- Docker
 
 **My Experiences 👨‍💻**
 - Fullstack Web Developer @ Microverse.
